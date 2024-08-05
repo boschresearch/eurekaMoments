@@ -21,7 +21,7 @@ pip install "Pillow<10.0.0"
 ```
 to create and activate your conda environment. 
 
-Download FashionMnist and MNIST and place them in the data folder
+Run `python download_datasets.py` to download FashionMnist and MNIST into the `data` folder.
 
 # Using the code
 ### To train a vanilla ViT on our main dataset use
